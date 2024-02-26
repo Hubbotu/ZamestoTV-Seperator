@@ -1,0 +1,14 @@
+## Interface: 100205
+## Title: ZamestoTV Separator
+## Title-ruRU: ZamestoTV Разделитель
+## Notes: Separates large numbers
+## Notes-ruRU: Разделяет большие числа
+## Author: ZamestoTV
+## IconTexture: Interface\HELPFRAME\HelpIcon-KnowledgeBase.blp
+## Version: 1.17
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## SavedVariables: ZamestoSeparator_DB
+
+embeds.xml
+ZamestoTVSeparator.lua
